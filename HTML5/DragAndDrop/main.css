@@ -1,0 +1,16 @@
+#leftbox{
+    border: 3px dotted green;
+    width: 240px;
+    height: 240px;
+    padding: 10px;
+    margin: 10px;
+    float: left;
+}
+#rightbox{
+    border: 3px dotted tomato;
+    width: 240px;
+    height: 240px;
+    padding: 10px;
+    margin: 10px;
+    float: left;
+}
